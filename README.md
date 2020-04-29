@@ -1,2 +1,2 @@
-# counter-app
-Basic Vanilla app to collaborate with Felicia Dixon on web app creation!
+# portfolio for Chinaemere
+Basic Vanilla app to collaborate with Chinaemere Ike on web app creation!

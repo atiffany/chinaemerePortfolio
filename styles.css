@@ -2,3 +2,16 @@ body {
   height: 200px;
   background-color: gray;
 }
+
+h1 {
+  color: white;
+}
+
+.header {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.underlined {
+  border-bottom: 1px solid white;
+}

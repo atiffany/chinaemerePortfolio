@@ -1,3 +1,8 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
 body {
   height: 200px;
   background-color: gray;
@@ -14,4 +19,9 @@ h1 {
 
 .underlined {
   border-bottom: 1px solid white;
+}
+
+.image {
+  width: 400px;
+  border-radius: 50%;
 }

@@ -4,12 +4,14 @@ a {
 }
 
 body {
-  height: 200px;
-  background-color: gray;
+  /*background-color: gray;*/
+  background: linear-gradient( #ffff99, #ff99cc);
+
 }
 
 h1 {
-  color: white;
+  color: #333333;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .header {
@@ -24,4 +26,12 @@ h1 {
 .image {
   width: 400px;
   border-radius: 50%;
+}
+
+.project-card {
+  border: 1px solid blue;
+  width: 200px;
+  display: inline-block;
+  margin: 100px;
+  padding: 5px;
 }
